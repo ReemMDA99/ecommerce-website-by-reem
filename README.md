@@ -15,6 +15,10 @@ Dotenv
 
 ## ScreenShots
 
+![image](./Assets/Picture1.png)
+![image](./Assets/Picture2.png)
+![image](./Assets/Picture3.png)
+
 ## Walkthrough video
 
 
