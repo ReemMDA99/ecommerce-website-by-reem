@@ -19,8 +19,10 @@ Dotenv
 ![image](./Assets/Picture2.png)
 ![image](./Assets/Picture3.png)
 
+
 ## Walkthrough video
 
+https://drive.google.com/file/d/15Hw-BcjKV7dClptQ2EtRl4SGxpp7euki/view?usp=sharing
 
 ## Installation 
 
@@ -72,6 +74,9 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Submissions
 
-- GitHub Repo URL: https://github.com/ReemMDA99/ecommerce-website-by-reem
+- GitHub Repo URL: 
+    https://github.com/ReemMDA99/ecommerce-website-by-reem
 
 - A walkthrough video demonstrating the application:
+
+    https://drive.google.com/file/d/15Hw-BcjKV7dClptQ2EtRl4SGxpp7euki/view?usp=sharing
