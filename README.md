@@ -6,12 +6,12 @@ This app is the backend portion of an E-Commerce website. Express.js was used fo
 
 ## Technologies Used
 
-Javascript
-Node.js
-Sequelize
-MySQL2
-Express
-Dotenv
+- Javascript
+- Node.js
+- Sequelize
+- MySQL2
+- Express
+- Dotenv
 
 ## ScreenShots
 
