@@ -22,7 +22,7 @@ This app is the backend portion of an E-Commerce website. Express.js was used fo
 
 ## Walkthrough video
 
-https://drive.google.com/file/d/1mFwwn-4wnzsHkmLPtapJyUoor-a9iEVU/view?usp=sharing
+https://drive.google.com/file/d/15Hw-BcjKV7dClptQ2EtRl4SGxpp7euki/view?usp=sharing
 
 ## Installation 
 
@@ -79,4 +79,4 @@ THEN I am able to successfully create, update, and delete data in my database
 
 - A walkthrough video demonstrating the application:
 
-https://drive.google.com/file/d/1mFwwn-4wnzsHkmLPtapJyUoor-a9iEVU/view?usp=sharing
+https://drive.google.com/file/d/15Hw-BcjKV7dClptQ2EtRl4SGxpp7euki/view?usp=sharing
